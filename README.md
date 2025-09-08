@@ -3,12 +3,12 @@
 Template to help fill and complete quarterly project
 _Keep track of this ReadME file as you go. Delete this line when ready_ 
 
-# Insert Project Name
+Encryption project.
 ### 2025-26 CLHS Computer Science Independent Study
-_Insert Student Names_
+Alexander Hartson
 
 ## Targeted Topic or Skill
-_insert the specific topic and skill you focused on this quarter_
+File input and output
 
 ## Description
 _Insert the project description here. What does it do?_ 
